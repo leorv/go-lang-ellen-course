@@ -1,0 +1,1 @@
+# Conversão, não coersão.
